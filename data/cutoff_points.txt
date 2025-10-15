@@ -1,0 +1,24 @@
+### 2017 Entry Students – Cut-Off Points for Natural Sciences
+Program | Male | Female
+--------|-------|--------
+Veterinary Science (BVSc) 2024 | 51.79 | No data
+Computer Science 2024 | 93.12 | 90.33
+Information Systems 2024 | 89.79 | 88.36
+Doctor of Veterinary Medicine (DVM) 2024 | 65.04 | 33.88
+Other Health Sciences 2024 | 84.04 | 81.88
+Other Natural Sciences 2024 | 46.04 | 40.54
+Pre-Engineering (AAiT) 2024 | 83.83 | 75.33
+Pre-Engineering (EIABC) 2024 | 75.46 | 70.46
+
+### 2017 Entry Students – Cut-Off Points for Pre-Engineering / CTBE / AAiT
+Program (School) | Competition | Female Quota
+-----------------|-------------|--------------
+DARC (Architecture) | 74.05 | 71.60
+DITM (Cotem) | 80.48 | 72.28
+DURP (Urban) | 77.63 | 62.35
+SiTE (Software) | 99.60 | 98.03
+SECE (Electrical) | 95.98 | 94.20
+SBME (Biomedical) | 95.33 | 94.00
+SMiE (Mechanical) | 90.80 | 84.80
+SCBE (Chemical) | 87.23 | 83.63
+SCEE (Civil) | 86.08 | 76.50

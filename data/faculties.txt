@@ -1,0 +1,56 @@
+## Colleges and Schools
+- College of Natural and Computational Sciences
+- School of Information Science
+- College of Social Sciences
+- College of Health Sciences
+- College of Engineering and Architecture
+- College of Business and Economics
+- School of Law
+- School of Journalism and Communication
+
+### Expanded Academic Structure (From Full File)
+- College of Biological Engineering
+- College of Humanities, Language Studies, Journalism and Communication
+- College of Development Studies
+- College of Education and Behavioral Studies
+- College of Veterinary Medicine and Agriculture
+- Skunder Boghossian College of Performing and Visual Arts
+
+## Institutes (Teaching + Research)
+- Addis Ababa Institute of Technology (AAiT)
+- Ethiopian Institute of Architecture, Building Construction, and City Development (EIABC)
+- Aklilu Lemma Institute of Pathobiology
+- Institute of Peace and Security Studies
+- Institute of Ethiopian Studies
+- Institute of Biotechnology
+- Institute of Development and Policy Research (IDPR)
+- Institute of Geophysics, Space Science, and Astronomy
+
+## Natural Science Stream (CNCS)
+Location: Arat Kilo Campus  
+Departments include:
+- Biology / Biotechnology
+- Chemistry
+- Physics
+- Mathematics
+- Statistics
+- Computer Science
+- Earth Sciences
+- Computational Data Science
+
+Undergraduate Programs (examples):
+- BSc in Computer Science
+- BSc in Chemistry
+- BSc in Physics
+- BSc in Mathematics
+- BSc in Statistics
+- BSc in Biotechnology
+- BSc in Geology
+
+Graduate Programs (examples):
+- MSc/PhD in Computer Science
+- MSc/PhD in Chemistry
+- MSc/PhD in Biotechnology
+- MSc/PhD in Mathematics
+- MSc/PhD in Earth Sciences
+- MSc in Materials Science

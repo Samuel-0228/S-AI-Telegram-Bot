@@ -1,0 +1,154 @@
+User: hey
+Bot: Hello! How can I assist you today?
+------------------------------------------------------------
+User: who is samuel
+Bot: Dr. Samuel Kifle is the current President of Addis Ababa University (AAU). If you have any specific questions about him or his role at AAU, feel free to ask!
+------------------------------------------------------------
+User: how do i find reading materials?
+Bot: For course modules and study resources, please check: [https://t.me/Savvysocietybot](https://t.me/Savvysocietybot).
+------------------------------------------------------------
+User: who are you?
+Bot: I am Savvy Chatbot, your friendly virtual assistant for Addis Ababa University (AAU) students. I'm here to help you with information about the university, its programs, and resources. How can I assist you today?
+------------------------------------------------------------
+User: do you have cut off information for natural science?
+Bot: Yes, I have the cut-off points for Natural Science Streams for the 2017 entry students. Here are the details:
+
+| Program                                                   | Male Cut-off | Female Cut-off |
+|----------------------------------------------------------|--------------|----------------|
+| Bachelor's Degree in Veterinary Science (BVSc)           | 2024         | 51.79          | No data        |
+| Bachelor of Science in Computer Science                   | 93.12        | 90.33          |
+| Bachelor of Science in Information Systems                | 89.79        | 88.36          |
+| Doctor of Veterinary Medicine (DVM)                       | 65.04        | 33.88          |
+| Other Health Sciences                                      | 84.04        | 81.88          |
+| Other Natural Sciences                                     | 46.04        | 40.54          |
+| Pre-Engineering (formerly AAIT)                           | 83.83        | 75.33          |
+| Pre-Engineering (formerly EIABC)                          | 75.46        | 70.46          |
+
+If you need more information or have other questions, feel free to ask!
+------------------------------------------------------------
+User: who made you?
+Bot: I was created by OpenAI to serve as a virtual assistant, specifically designed to help students at Addis Ababa University (AAU) with their inquiries and provide information about the university and its resources. How can I assist you further?
+------------------------------------------------------------
+User: when was aau established
+Bot: Addis Ababa University (AAU) was established in 1950 as the University College of Addis Ababa. If you have any more questions about AAU, feel free to ask!
+------------------------------------------------------------
+User: Hey
+Bot: Hello! How can I assist you today?
+------------------------------------------------------------
+User: What is cut of point for electrical
+Bot: The cut-off point for the Electrical Engineering program (SECE) for the 2017 entry students is as follows:
+
+- **Male Cut-off**: 95.98
+- **Female Cut-off**: 94.20
+
+If you have any other questions or need further details, feel free to ask!
+------------------------------------------------------------
+User: Who is elon musk?
+Bot: Elon Musk is a prominent entrepreneur and business magnate known for his role in several high-profile technology companies. He is the CEO and lead designer of SpaceX, a company focused on space exploration and transportation; CEO and product architect of Tesla, Inc., which specializes in electric vehicles and sustainable energy; and co-founder of Neuralink, a neurotechnology company, and The Boring Company, which focuses on tunnel construction and infrastructure.
+
+Musk is also one of the co-founders of PayPal, an online payment system, which was sold to eBay in 2002. He is noted for his vision of future technology, including plans for human colonization of Mars, the development of sustainable energy solutions, and the advancement of artificial intelligence. Elon Musk is often recognized for his ambitious goals and innovative approach to technology.
+------------------------------------------------------------
+User: Hey
+Bot: Hello! How can I assist you today?
+------------------------------------------------------------
+User: Who is the president?
+Bot: The current President of Addis Ababa University (AAU) is Dr. Samuel Kifle. If you have any more questions about him or his role, feel free to ask!
+------------------------------------------------------------
+User: I want to advertise
+Bot: You can contact the official Savvy Society's Bot for promotions, events, announcements, or anything: [https://t.me/AAU_STUDENTSBOT](https://t.me/AAU_STUDENTSBOT).
+------------------------------------------------------------
+User: who is samuel kifle?
+Bot: Dr. Samuel Kifle is the current President of Addis Ababa University (AAU). He serves as the leader of this prestigious institution, overseeing its operations and academic direction. If you have any specific questions about his role or background, feel free to ask!
+------------------------------------------------------------
+User: who is samuel?
+Bot: Dr. Samuel Kifle is the current President of Addis Ababa University (AAU). If you have any specific questions about him or his role at AAU, feel free to ask!
+------------------------------------------------------------
+User: do you know who built you?
+Bot: I was created by OpenAI to serve as a virtual assistant specifically for students at Addis Ababa University (AAU). If you have any other questions or need assistance, feel free to ask!
+------------------------------------------------------------
+User: who built you?
+Bot: I was created by OpenAI to serve as a virtual assistant specifically for students at Addis Ababa University (AAU). If you have any other questions or need assistance, feel free to ask!
+------------------------------------------------------------
+User: who built this bot?
+Bot: I was created by OpenAI to serve as a virtual assistant specifically for students at Addis Ababa University (AAU). If you have any other questions or need assistance, feel free to ask!
+------------------------------------------------------------
+[2025-10-14T08:01:57.921353] User: give me cut off point for pre-enginnering ot ctbe
+Bot: Here are the cut-off points for Pre-Engineering programs (CTBE/AAiT) for 2017 entry students:
+
+| Program (School) | Competition | Female Quota |
+|------------------|-------------|--------------|
+| DARC (Architecture) | 74.05 | 71.60 |
+| DITM (Cotem) | 80.48 | 72.28 |
+| DURP (Urban) | 77.63 | 62.35 |
+| SiTE (Software) | 99.60 | 98.03 |
+| SECE (Electrical) | 95.98 | 94.20 |
+| SBME (Biomedical) | 95.33 | 94.00 |
+| SMiE (Mechanical) | 90.80 | 84.80 |
+| SCBE (Chemical) | 87.23 | 83.63 |
+| SCEE (Civil) | 86.08 | 76.50 |
+------------------------------------------------------------
+[2025-10-14T08:03:04.554123] User: who is temedgen?
+Bot: I'm not certain who Temedgen is since that information is not included in the AAU data. It may refer to a student, faculty, or staff member, but I cannot provide specific details. If you have additional context or are looking for someone connected to AAU, please clarify.
+------------------------------------------------------------
+[2025-10-14T08:04:14.130272] User: I want to advertise
+Bot: For advertising and promotions at Addis Ababa University, please refer to the official students bot for specific guidelines and support.
+------------------------------------------------------------
+[2025-10-14T08:09:20.246215] User: I want to advertise
+Bot: For advertising inquiries, please direct your request to the official students bot @AAU_STUDENTSBOT.
+------------------------------------------------------------
+[2025-10-14T08:09:39.972973] User: who is kebed?
+Bot: For information about individuals, including "Kebed", please refer to the official students bot @AAU_STUDENTSBOT.
+------------------------------------------------------------
+[2025-10-14T08:09:55.997139] User: who is samuel?
+Bot: Dr. Samuel Kifle is the President of Addis Ababa University. For more details about university leadership or other inquiries, you can reach out to the official student bot @AAU_STUDENTSBOT.
+------------------------------------------------------------
+[2025-10-14T08:34:34.001741] User: i want modules
+Bot: For course modules and study materials, please refer to the modules bot @Savvysocietybot.
+------------------------------------------------------------
+[2025-10-14T18:55:45.137121] User: hello
+Bot: Hello! How can I assist you today?
+------------------------------------------------------------
+[2025-10-14T18:56:27.703254] User: what is the day today?
+Bot: I'm not able to provide real-time information. Please check your device for the current date.
+------------------------------------------------------------
+[2025-10-14T19:30:04.626986] User: can you find me aau website
+Bot: The official website of Addis Ababa University is [https://www.aau.edu.et](https://www.aau.edu.et).
+------------------------------------------------------------
+[2025-10-14T19:30:14.937502] User: Find me the cut off points for natural science
+Bot: Here are the cut-off points for Natural Sciences for 2017 entry students:
+
+| Program | Male | Female |
+|---------|------|--------|
+| Veterinary Science (BVSc) 2024 | 51.79 | No data |
+| Computer Science 2024 | 93.12 | 90.33 |
+| Information Systems 2024 | 89.79 | 88.36 |
+| Doctor of Veterinary Medicine (DVM) 2024 | 65.04 | 33.88 |
+| Other Health Sciences 2024 | 84.04 | 81.88 |
+| Other Natural Sciences 2024 | 46.04 | 40.54 |
+| Pre-Engineering (AAiT) 2024 | 83.83 | 75.33 |
+| Pre-Engineering (EIABC) 2024 | 75.46 | 70.46 |
+------------------------------------------------------------
+[2025-10-14T19:31:00.734384] User: What do i need to join aau
+Bot: To join Addis Ababa University (AAU), you'll need to meet the following requirements based on the type of program you are applying for:
+
+### Undergraduate Admissions:
+1. **Documents Required:**
+   - 10th and 12th grade transcripts
+   - 4 passport photos
+   - Dormitory essentials (if applicable)
+
+2. **Application Process:**
+   - Applications are handled online via the AAU Admission Portal.
+   - For the 2025/26 academic year, applications for regular undergraduate programs opened on August 19, 2025.
+
+### Graduate Admissions:
+1. **Documents Required:**
+   - Relevant academic transcripts and degrees.
+   - Other documents as specified during the application process.
+
+2. **Application Process:**
+   - Call for applications started on August 12, 2025.
+   - Registration for new regular students takes place on September 18, 2025.
+
+Make sure to check specific program requirements as they may vary. For more detailed inquiries, consider reaching out to the Registrar's Office or visiting the AAU website.
+------------------------------------------------------------
