@@ -8,7 +8,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Reply to /start command."""
     await update.message.reply_text(
         "🤖 Hello! I’m Savvy Chatbot — your AAU AI assistant built by Savvy Society Coordinator.\n"
-        "🌐 Channel: https://t.me/University_of_Addis_Ababa\n\n"
+        "🌐 Channel: https://t.me/Savvy_Society\n\n"
         "Send me any question about Addis Ababa University or general topics!"
     )
 
