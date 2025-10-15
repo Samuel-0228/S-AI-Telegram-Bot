@@ -176,7 +176,7 @@ AAU Knowledge (compact):
         try:
             bot_reply = call_model(
                 client_openai, "gpt-4o-mini", system_prompt, user_message)
-            full_reply = bot_reply + f"\n\n📢 @University_of_Addis_Ababa"
+            full_reply = bot_reply + f"\n\n📢 @Savvy_Society"
             save_to_results(user_message, bot_reply)
             return full_reply
         except Exception as e_openai:
@@ -191,7 +191,7 @@ AAU Knowledge (compact):
             # If you have a specific Groq model, update this value via GROQ_KEY and config.
             bot_reply = call_model(
                 client_groq, "llama-3.1-8b-instant", system_prompt, user_message)
-            full_reply = bot_reply + f"\n\n📢 Subscribe: @University_of_Addis_Ababa"
+            full_reply = bot_reply + f"\n\n📢 Subscribe: @Savvy_Society"
             save_to_results(user_message, bot_reply)
             return full_reply
         except Exception as e_groq:
@@ -206,7 +206,7 @@ AAU Knowledge (compact):
             # local_result already includes a header (source). Add footer & save log.
             # Remove header before logging to keep logs shorter
             save_to_results(user_message, local_result)
-            return local_result + f"\n\n📢 Subscribe: @University_of_Addis_Ababa"
+            return local_result + f"\n\n📢 Subscribe: @Savvy_Society"
     except Exception as e_local:
         _log_error(user_message, "Local search failed", e_local)
 
