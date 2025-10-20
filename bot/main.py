@@ -1,10 +1,9 @@
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters
-from .config import BOT_TOKEN
-from .handlers import start, handle_message
+from bot.config import BOT_TOKEN
+from bot.handlers import start, handle_message
 
-
-def main():
-    # Create the bot application
+async def main():
+    """Run the Telegram bot."""
     app = (
         ApplicationBuilder()
         .token(BOT_TOKEN)
@@ -15,16 +14,8 @@ def main():
         .build()
     )
 
-    # Command handler for /start
     app.add_handler(CommandHandler("start", start))
+    app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
-    # Message handler for all other text messages
-    app.add_handler(MessageHandler(
-        filters.TEXT & ~filters.COMMAND, handle_message))
-
-    print("🤖 Bot is running locally...")
-    app.run_polling()
-
-
-if __name__ == "__main__":
-    main()
+    print("🤖 Bot is running on Railway...")
+    await app.run_polling()
