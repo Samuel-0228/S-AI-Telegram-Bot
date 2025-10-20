@@ -1,45 +1,23 @@
-
-from flask import Flask
+import asyncio
 import threading
-from bot.main import main  # runs your Telegram bot
+from flask import Flask
+from bot.main import main  # Import your Telegram bot's main() function
 
 app = Flask(__name__)
 
-@app.route('/')
-def home():
-    return "🤖 Savvy Chatbot is running on Render!"
-
 def run_bot():
-    main()  # starts the Telegram bot (polling mode)
+    """Run the Telegram bot in its own asyncio event loop."""
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    loop.run_until_complete(main())
 
-if __name__ == '__main__':
-    # Run the bot in a separate thread
-    bot_thread = threading.Thread(target=run_bot)
-    bot_thread.start()
+# Run the Telegram bot in a separate thread
+threading.Thread(target=run_bot, daemon=True).start()
 
-    # Bind to the Render port
-    import os
-    port = int(os.environ.get("PORT", 10000))
-    app.run(host="0.0.0.0", port=port)
-from flask import Flask
-import threading
-from bot.main import main  # runs your Telegram bot
-
-app = Flask(__name__)
-
-@app.route('/')
+@app.route("/")
 def home():
-    return "🤖 Savvy Chatbot is running on Render!"
+    return "🤖 Savvy AAU Telegram Bot is running successfully on Railway!"
 
-def run_bot():
-    main()  # starts the Telegram bot (polling mode)
-
-if __name__ == '__main__':
-    # Run the bot in a separate thread
-    bot_thread = threading.Thread(target=run_bot)
-    bot_thread.start()
-
-    # Bind to the Render port
-    import os
-    port = int(os.environ.get("PORT", 10000))
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8080))
     app.run(host="0.0.0.0", port=port)
